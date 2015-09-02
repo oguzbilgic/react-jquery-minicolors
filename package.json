@@ -1,0 +1,11 @@
+{
+  "name": "react-jquery-minicolors",
+  "version": "0.1.0",
+  "description": "Wraps jQuery.minicolors into a react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oguz Bilgic",
+  "license": "MIT"
+}
